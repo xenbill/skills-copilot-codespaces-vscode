@@ -1,4 +1,4 @@
-//create a web server that listens for requests and serves comments
+//create a web server
 var http = require('http');
 var fs = require('fs');
 
